@@ -1,0 +1,37 @@
+@import '~nativescript-theme-core/css/core.light.css';
+
+button, label{
+    horizontal-align: center;    
+}
+
+gridlayout{
+    background-color: rgb(10, 0, 148);
+}
+
+label {
+    font-size: 36;
+    color: rgb(26, 243, 171);
+}
+
+label.result {
+    font-size: 42;
+    horizontal-align: center;
+    color: yellow;
+}
+button, label{
+    horizontal-align: center;    
+}
+button{
+    font-size: 36;
+    width: 100%;
+}
+
+.controls{
+    background-color: orange;
+    color: red;
+}
+
+.numbers{
+    background-color: #C0C0C0;
+    color: blue;
+}
